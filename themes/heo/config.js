@@ -83,8 +83,8 @@ const CONFIG = {
       color_2: '#ffffff'
     },
     {
-      title_1: 'Swift',
-      img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
+      title_1: 'Houdini',
+      img_1: 'https://raw.githubusercontent.com/44178/BlogImg/refs/heads/main/HoudiniLogo.png',
       color_1: '#eb6840',
       title_2: 'substancePaint',
       img_2: 'https://raw.githubusercontent.com/44178/BlogImg/refs/heads/main/Painter3DLogo.png',
@@ -94,9 +94,9 @@ const CONFIG = {
       title_1: 'illustrator',
       img_1: '/images/heo/20237359d71b45ab77829cee5972e36f8c30073902.webp',
       color_1: '#f29e39',
-      title_2: 'CSS3',
-      img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
-      color_2: '#2c51db'
+      title_2: 'Zbrush',
+      img_2: 'https://raw.githubusercontent.com/44178/BlogImg/refs/heads/main/ZB_LOGO.png',
+      color_2: '#ffffff'
     },
     {
       title_1: 'Blender',
