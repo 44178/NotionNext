@@ -69,7 +69,7 @@ const CONFIG = {
     {
       title_1: 'Maya',
       img_1: 'https://raw.githubusercontent.com/44178/BlogImg/refs/heads/main/MAYA_LOGO.png',
-      color_1: '#57b6e6',
+      color_1: '#e5f2f2',
       title_2: 'Photoshop',
       img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
       color_2: '#4082c3'
@@ -87,8 +87,8 @@ const CONFIG = {
       img_1: '/images/heo/202328bbee0b314297917b327df4a704db5c072402.webp',
       color_1: '#eb6840',
       title_2: 'substancePaint',
-      img_2: 'https://raw.githubusercontent.com/44178/BlogImg/refs/heads/main/substancePainterLogo.png',
-      color_2: '#8f55ba'
+      img_2: 'https://raw.githubusercontent.com/44178/BlogImg/refs/heads/main/Painter3DLogo.png',
+      color_2: '#1e3101'
     },
     {
       title_1: 'illustrator',
@@ -99,8 +99,8 @@ const CONFIG = {
       color_2: '#2c51db'
     },
     {
-      title_1: 'JS',
-      img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
+      title_1: 'Blender',
+      img_1: 'https://raw.githubusercontent.com/44178/BlogImg/refs/heads/main/BlenderLogo.png',
       color_1: '#f7cb4f',
       title_2: 'HTML',
       img_2: '/images/heo/202372b4d760fd8a497d442140c295655426070302.webp',
@@ -111,7 +111,7 @@ const CONFIG = {
       img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
       color_1: '#df5b40',
       title_2: 'FLStudio',
-      img_2: 'https://raw.githubusercontent.com/44178/BlogImg/refs/heads/main/FL_LOGO.webp',
+      img_2: 'https://raw.githubusercontent.com/44178/BlogImg/refs/heads/main/FL_LOGO.png',
       color_2: '#1f1f1f'
     }
   ],
